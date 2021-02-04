@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Palacios</h1>
-<h3 align="center">A passionate FullStack developer from Spain ❤️👩🏻‍💻/h3>
+<h3 align="center">A passionate FullStack developer from Spain ❤️👩🏻‍💻</h3>
 
 - 🔭 I’m currently working on **my secret project 🔐😎**
 
