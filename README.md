@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **my secret project 🔐😎**
 
-- 🌱 I’m currently learning **Angular & VUE.**
+- 🌱 Now I'm learning **Angular & VUE.**
 
 - 👨‍💻 All of my projects are available at [sarapalacios.me](sarapalacios.me)
 
 - 📫 How to reach me **contact@sarapalacios.me**
 
-- ⚡ Fun fact **I luv cats and gangsters movies**
+- ⚡ Fun fact about me, **I luv cats and gangsters movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
