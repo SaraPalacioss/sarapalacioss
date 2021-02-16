@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my secret project 🔐😎**
 
-- 🌱 Now I'm learning **Angular & VUE.**
+- 🌱 Now I'm learning **Angular**
 
 - 👨‍💻 All of my projects are available at [sarapalacios.me](sarapalacios.me)
 
