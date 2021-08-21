@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **my secret project 🔐😎**
 
-- 🌱 Now I'm learning **Angular**
-
 - 👨‍💻 All of my projects are available at [sarapalacios.me](sarapalacios.me)
 
 - 📫 How to reach me **contact@sarapalacios.me**
